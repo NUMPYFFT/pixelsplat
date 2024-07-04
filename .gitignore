@@ -9,6 +9,9 @@ __pycache__/
 # ignore datasets folder
 datasets/
 
+# ignore checkpoints folder
+checkpoints/
+
 # Distribution / packaging
 .Python
 build/
